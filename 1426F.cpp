@@ -1,4 +1,4 @@
-// problems from facebook hacker cup 2020
+// problems from facebook hacker cup 2020 round B
 #include<iostream>
 #include<bits/stdc++.h>
 using namespace std;
